@@ -1,0 +1,3 @@
+rootProject.name = 'MovieRevs'
+
+include ':app'
